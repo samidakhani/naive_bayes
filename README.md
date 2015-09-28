@@ -1,2 +1,5 @@
 # naive_bayes
-Implementation of Naive Bayes Classifier in python
+Sample implementationmplementation of Naive Bayes Classifier in python
+
+Command: <br />
+python bayes.py -i <filename>
